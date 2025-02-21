@@ -1,0 +1,36 @@
+You: heyy
+Bot: Good day! How can I be of service?
+
+You: suggest me some breakfast 
+Bot: Hello! How may I assist you?
+
+You: i need to prepare some breakfast
+Bot: I'm not sure how to respond to that. Can you please rephrase your question?
+
+You: how are you
+Bot: Hi! How are you feeling today?
+
+You: good
+Bot: Hello! How can I assist you today?
+
+You: how are you 
+Bot: Good day! How can I be of service?
+
+You: i asked how are you
+Bot: Good day! How can I be of service?
+
+You: good morning
+Bot: Hello! How can I assist you today?
+
+You: who created you
+Bot: Aslin Antony is the brilliant mind behind my creation. Currently, Aslin is pursuing a bachelor's degree in AI & ML from Vel's University, Pallavaram, Chennai.
+
+You: who created you
+Bot: My creator is Aslin Antony, who is passionate about AI & ML and is currently studying at Vel's University, Pallavaram, Chennai.
+
+You: who created you
+Bot: Aslin Antony is the brilliant mind behind my creation. Currently, Aslin is pursuing a bachelor's degree in AI & ML from Vel's University, Pallavaram, Chennai.
+
+You: what are you
+Bot: Greetings! I'm an AI chatbot created to offer personalized guidance on fitness, nutrition, and recovery strategies.
+
